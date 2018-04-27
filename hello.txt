@@ -1,1 +1,9 @@
-Hello, git!
+<HTML>
+<HEAD>
+<TITLE>test page</TITLE>
+</HEAD>
+<BODY>
+Hello, git!<br><br>
+This is a test file.<br>
+</BODY>
+</HTML>
