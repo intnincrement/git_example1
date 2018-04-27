@@ -5,5 +5,6 @@
 <BODY>
 Hello, git!<br><br>
 This is a test file.<br>
+<b>And I'd like to edit.</b><br>
 </BODY>
 </HTML>
